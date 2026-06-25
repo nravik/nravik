@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ravi Kumar N 👋
 
-<!--
-**nravik/nravik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analytics Lead | Data Strategy & Product | Dubai, UAE**
 
-Here are some ideas to get you started:
+I am a data & analytics professional with strong experience in enterprise BI platforms,
+analytics functions, and data products across Financial Services, Aviation, Fintech, Manufacturing and Tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Strong expertise on
+- SQL, PySpark, Python, APIs, Tableau, PowerBI, Alteryx, DWH & Data Modelling, Product Management
+  
+## 🌱 Currently exploring
+- GenAI, RAG, LLMS
+- Databricks ecosystem and cloud-native data patterns
+
+## 👯 Looking to collaborate on
+- Open source
+
+## 📫 How to reach me
+- LinkedIn: (https://www.linkedin.com/in/nravik)
+- Email - ravi071011@gmail.com
+
+Thank you!!
