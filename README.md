@@ -2,7 +2,7 @@
 
 **Analytics Lead | Data Strategy & Product | Dubai, UAE**
 
-I am a data & analytics professional with strong experience in enterprise BI platforms,
+I am a data & analytics professional with strong experience in enterprise data platforms,
 analytics functions, and data products across Financial Services, Aviation, Fintech, Manufacturing and Tech.
 
 ## 🔭 Strong expertise on
