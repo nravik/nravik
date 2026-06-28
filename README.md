@@ -12,9 +12,6 @@ analytics functions, and data products across Financial Services, Aviation, Fint
 - GenAI, RAG, LLMS
 - Databricks ecosystem and cloud-native data patterns
 
-## 👯 Looking to collaborate on
-- Open source
-
 ## 📫 How to reach me
 - LinkedIn: (https://www.linkedin.com/in/nravik)
 - Email - ravi071011@gmail.com
